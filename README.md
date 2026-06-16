@@ -66,14 +66,6 @@ Add portfolio screenshots here.
 ├── app
 ├── components
 ├── public
-│   ├── hero-character.png
-│   ├── about-character.png
-│   ├── skill-character.png
-│   ├── project-character.png
-│   ├── certificate-character.png
-│   ├── contact-character.png
-│   └── resume.pdf
-├── styles
 ├── package.json
 └── README.md
 ```
