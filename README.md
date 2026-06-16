@@ -1,36 +1,197 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Personal Portfolio Website
 
-## Getting Started
+A modern, animated, and responsive developer portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
-First, run the development server:
+Designed to showcase my skills, projects, certifications, experience, and contact information in a visually engaging way.
+
+---
+
+## 🌐 Live Demo
+
+🔗 Add your deployed portfolio link here
+
+```text
+https://your-portfolio.vercel.app
+```
+
+---
+
+## 📸 Preview
+
+Add portfolio screenshots here.
+
+```text
+/public/preview.png
+```
+
+---
+
+## ✨ Features
+
+- Responsive Design
+- Modern UI/UX
+- Smooth Framer Motion Animations
+- Animated Hero Section
+- About Section
+- Skills Showcase
+- Featured Projects
+- Certifications Section
+- Contact Section
+- Resume Download
+- Mobile Friendly
+- SEO Optimized
+- Fast Performance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── app
+├── components
+├── public
+│   ├── hero-character.png
+│   ├── about-character.png
+│   ├── skill-character.png
+│   ├── project-character.png
+│   ├── certificate-character.png
+│   ├── contact-character.png
+│   └── resume.pdf
+├── styles
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/pundiraditya/PersonalPortfolio.git
+```
+
+Move into project folder:
+
+```bash
+cd PersonalPortfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📌 Sections
 
-To learn more about Next.js, take a look at the following resources:
+### Home
+Introduction and hero section.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### About
+Professional summary and achievements.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Skills
+Technical skills and technologies.
 
-## Deploy on Vercel
+### Projects
+Highlighted development projects.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Certifications
+Professional certifications and achievements.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Contact
+Email, LinkedIn, GitHub, and resume access.
+
+---
+
+## 💼 Featured Projects
+
+### DeepCrop
+
+AI-powered crop disease detection platform using machine learning and image processing.
+
+### InsureGuard
+
+Machine learning-based insurance fraud detection system with anomaly detection.
+
+---
+
+## 📄 Resume
+
+Resume can be downloaded directly from the portfolio.
+
+Place your resume inside:
+
+```text
+/public/resume.pdf
+```
+
+---
+
+## 📫 Contact
+
+### Email
+
+```text
+adityapundirdev556@gmail.com
+```
+
+### LinkedIn
+
+Add your LinkedIn profile link.
+
+### GitHub
+
+https://github.com/pundiraditya
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+```text
+Give it a ⭐ on GitHub
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+### Developed with ❤️ by Aditya Pundir
